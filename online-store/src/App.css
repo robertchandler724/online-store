@@ -1,0 +1,20 @@
+header {
+  font-size: 48px;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  align-content: center;
+}
+
+.searchbar {
+  height: 30px;
+}
+
+.searchbutton {
+  height: 30px;
+}
